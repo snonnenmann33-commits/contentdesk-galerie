@@ -1,0 +1,10 @@
+# Schutz: nichts davon gehoert in die Veroeffentlichung.
+*.sqlite
+*.sqlite-*
+browser-profile/
+exports/
+.env
+*.log
+.DS_Store
+.repo
+.stand
